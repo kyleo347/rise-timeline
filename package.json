@@ -1,0 +1,19 @@
+{
+  "name": "timeline",
+  "version": "1.0.0",
+  "description": "Rise Timeline",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleo347/rise-timeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyleo347/rise-timeline/issues"
+  },
+  "homepage": "https://github.com/kyleo347/rise-timeline#readme"
+}

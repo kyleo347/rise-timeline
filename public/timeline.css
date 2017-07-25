@@ -1,0 +1,17 @@
+
+
+.tl-timenav {
+    background-color: #555759;
+}
+
+.tl-timemarker .tl-timemarker-content-container{
+    background-color: #ea6907;
+}
+
+.tl-timemarker .tl-timemarker-line-left{
+    color: #ea6907;
+}
+
+.tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline{
+    color: #ffffff;
+}
