@@ -46,11 +46,15 @@ timelineData = {
           "headline": "Massachusetts bill introduced.",
           "text": ""
         },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
+        },
         "group":"State",
       },
       {
         "media": { 
-          "url": "",
+          "url": "./img/FedSenate.jpg",
           "caption": "",
           "credit": "",
         },
@@ -61,6 +65,10 @@ timelineData = {
         "text": {
           "headline": "Federal bill introduced to the Senate. ",
           "text": ""
+        },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
         },
         "group": "Federal",
       },
@@ -77,6 +85,10 @@ timelineData = {
         "text": {
           "headline": "Federal bill introduced to the House.",
           "text": ""
+        },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
         },
         "group": "Federal",
       },
@@ -95,6 +107,10 @@ timelineData = {
           "headline": "Massachusetts bill passed House.",
           "text": ""
         },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
+        },
         "group":"State",
       },
       {
@@ -112,11 +128,15 @@ timelineData = {
           "headline": "Massachusetts bill passed Senate.",
           "text": ""
         },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
+        },
         "group":"State",
       },
       {
         "media": { 
-          "url": "",
+          "url": "./img/FedSigned.jpg",
           "caption": "",
           "credit": "",
         },
@@ -128,11 +148,15 @@ timelineData = {
           "headline": "Federal bill signed into law.",
           "text": ""
         },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
+        },
         "group": "Federal",
       },
       {
         "media": { 
-          "url": "",
+          "url": "./img/MASigned.jpg",
           "caption": "",
           "credit": "",
         },
@@ -144,6 +168,10 @@ timelineData = {
         "text": {
           "headline": "Massachusetts bill signed into law.",
           "text": ""
+        },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
         },
         "group":"State",
       },/*
@@ -223,6 +251,10 @@ timelineData = {
         "text": {
           "headline": "Virginia bill signed into law.",
         },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
+        },
         "group":"State",
       },
       {
@@ -238,6 +270,10 @@ timelineData = {
         },
         "text": {
           "headline": "Utah bill signed into law.",
+        },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
         },
         "group":"State",
       },
@@ -255,6 +291,10 @@ timelineData = {
         "text": {
           "headline": "Idaho bill signed into law.",
         },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
+        },
         "group":"State",
       },
       {
@@ -270,6 +310,10 @@ timelineData = {
         },
         "text": {
           "headline": "Maryland bill signed into law.",
+        },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
         },
         "group":"State",
       },
@@ -287,11 +331,15 @@ timelineData = {
         "text": {
           "headline": "Washington bill signed into law.",
         },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
+        },
         "group":"State",
       },
       {
         "media": { 
-          "url": "",
+          "url": "./img/VTSigned.jpg",
           "caption": "",
           "credit": "",
         },
@@ -302,6 +350,10 @@ timelineData = {
         },
         "text": {
           "headline": "Vermont bill signed into law.",
+        },
+        "background": {
+          //"url": "./img/Rise.png"
+          "color": "#ea6907"
         },
         "group":"State",
       },
